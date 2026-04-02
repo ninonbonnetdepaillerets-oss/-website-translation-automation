@@ -1,0 +1,1 @@
+translations/es/PLACEHOLDER.txt
